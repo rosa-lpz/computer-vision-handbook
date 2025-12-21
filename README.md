@@ -6,4 +6,4 @@ Repository for Computer Vision Handbook
 
 # Content
 
-## [[1. Introduction]](01_introduction/)
+## [1. Introduction](01_introduction/)
