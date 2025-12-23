@@ -1,7 +1,4 @@
-# Computer Vision Handbook
-
-Repository for Computer Vision Handbook
-
+# Introduction to Computer Vision
 
 
 Images on computers are most often stored as big grids of pixels.
