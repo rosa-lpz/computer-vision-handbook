@@ -1,5 +1,5 @@
 # Introduction to Computer Vision
-
+Computer vision is a field of artificial intelligence that enables machines to interpret and understand visual information from the world, such as images and videos. It involves processes like recognition, reconstruction, and reorganization to derive meaningful insights from visual data.
 
 Images on computers are most often stored as big grids of pixels.
 
@@ -44,3 +44,6 @@ In more extreme cases, like at a game at night, the tracking might be poor. And 
 
 
 For these reasons, color market tracking and similar algorithms are rarely used, unless the environment can be tightly controlled.
+
+# References
+* Crash Course - Computer Science
