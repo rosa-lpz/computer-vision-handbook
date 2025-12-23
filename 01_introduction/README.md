@@ -48,4 +48,4 @@ For these reasons, color market tracking and similar algorithms are rarely used,
 # References
 * Crash Course - Computer Science
 * IBM
-* Wikipedia
+* Wikipedia: https://en.wikipedia.org/wiki/Computer_vision
