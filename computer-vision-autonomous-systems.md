@@ -83,3 +83,23 @@ Camera	Color, texture, signs
 LiDAR	3D depth & distance
 Radar	Speed & distance (robust in bad weather)
 IMU	Orientation & motion
+
+-Sensor fusion improves reliability.
+
+Deep Learning in Computer Vision
+
+Modern systems rely heavily on deep learning:
+
+CNNs for image understanding
+
+Transformers for global context
+
+Self-supervised learning to reduce labeling needs
+
+Frameworks:
+
+OpenCV
+
+PyTorch
+
+TensorFlow
