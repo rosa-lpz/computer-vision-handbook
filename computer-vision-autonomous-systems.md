@@ -13,7 +13,7 @@ In short:
 Perception → Understanding → Action
 
 
-Key Vision Tasks
+## Key Vision Tasks
 Object Detection
 
 Identifies and locates objects such as:
@@ -27,3 +27,16 @@ Common models:
 * YOLO
 * Faster R-CNN
 * SSD
+
+
+## Lane & Road Detection
+
+Used mainly in autonomous vehicles:
+
+* Lane markings
+* Road boundaries
+* Crosswalks
+
+Techniques:
+* Edge detection
+* Semantic segmentation (e.g., U-Net, DeepLab)
