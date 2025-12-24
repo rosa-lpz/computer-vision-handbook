@@ -36,7 +36,17 @@ Used mainly in autonomous vehicles:
 * Lane markings
 * Road boundaries
 * Crosswalks
-
+  
 Techniques:
 * Edge detection
 * Semantic segmentation (e.g., U-Net, DeepLab)
+
+
+## Semantic & Instance Segmentation
+
+Assigns labels to every pixel:
+* Road, sidewalk, sky
+* Vehicles vs pedestrians
+
+This gives detailed scene understanding.
+
