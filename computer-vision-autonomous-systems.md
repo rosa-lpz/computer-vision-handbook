@@ -67,3 +67,19 @@ Visual-Inertial Odometry
 
 Structure from Motion (SfM)
 
+
+Tracking & Motion Estimation
+
+Tracks moving objects across frames:
+
+Predicts trajectories
+
+Avoids collisions
+
+Methods:
+
+Optical flow
+
+Kalman filters
+
+Deep SORT
