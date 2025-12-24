@@ -50,3 +50,20 @@ Assigns labels to every pixel:
 
 This gives detailed scene understanding.
 
+
+Localization & Mapping (Visual SLAM)
+
+Helps the system know:
+
+Where it is
+
+What the environment looks like
+
+Techniques:
+
+Visual SLAM (ORB-SLAM)
+
+Visual-Inertial Odometry
+
+Structure from Motion (SfM)
+
