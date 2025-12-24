@@ -51,35 +51,35 @@ Assigns labels to every pixel:
 This gives detailed scene understanding.
 
 
-Localization & Mapping (Visual SLAM)
+## Localization & Mapping (Visual SLAM)
 
 Helps the system know:
-
-Where it is
-
-What the environment looks like
+* Where it is
+* What the environment looks like
 
 Techniques:
-
-Visual SLAM (ORB-SLAM)
-
-Visual-Inertial Odometry
-
-Structure from Motion (SfM)
+* Visual SLAM (ORB-SLAM)
+* Visual-Inertial Odometry
+* Structure from Motion (SfM)
 
 
 Tracking & Motion Estimation
-
 Tracks moving objects across frames:
-
-Predicts trajectories
-
-Avoids collisions
+* Predicts trajectories
+* Avoids collisions
 
 Methods:
 
-Optical flow
+* Optical flow
+* Kalman filters
+* Deep SORT
 
-Kalman filters
+## Sensors Used
 
-Deep SORT
+Autonomous systems often combine multiple sensors:
+
+Sensor	Purpose
+Camera	Color, texture, signs
+LiDAR	3D depth & distance
+Radar	Speed & distance (robust in bad weather)
+IMU	Orientation & motion
